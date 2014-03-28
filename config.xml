@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "org.lompochigh.tomahawk"
+    version   = "1.0.0">
+
+<name>Tomahawk - BullyReporting</name>
+
+<description>
+LHS App to help students prevent and report bullyiing.
+</description>
+
+<author href="https://lompochigh.org" email="mrdean@lompocschools.org">
+Mr. Dean
+</author>
+
+</widget>
